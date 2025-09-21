@@ -1,0 +1,4 @@
+chatterbot==1.0.8
+chatterbot-corpus==1.2.0
+nltk==3.8.1
+PyYAML==6.0.1

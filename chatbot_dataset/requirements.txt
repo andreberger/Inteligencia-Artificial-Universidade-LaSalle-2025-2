@@ -1,0 +1,6 @@
+transformers==4.36.0
+datasets==2.14.0
+torch==2.1.0
+chatterbot==1.0.8
+nltk==3.8.1
+numpy==1.24.3
