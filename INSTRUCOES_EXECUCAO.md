@@ -138,12 +138,3 @@ projeto/
 - Observe a diferença de criatividade
 - Teste prompts como: "Tell me about AI"
 
-## ✅ Verificação Final
-
-Antes de entregar, verifique:
-- [ ] Todos os 4 chatbots executam sem erro
-- [ ] Screenshots foram capturadas
-- [ ] READMEs estão completos
-- [ ] Dependências estão listadas
-- [ ] Código está comentado
-- [ ] Repository está no GitHub
